@@ -1,0 +1,3 @@
+var scrabble = function(word) {
+  
+};
